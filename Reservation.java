@@ -34,20 +34,7 @@ public class Reservation
         return start;
     }
 
-    public String getEnd() 
-    {
-        return end;
-    }
-
-    public String getDate() 
-    {
-        return date;
-    }
-
-    public String getTrainName() 
-    {
-        return trainName;
-    }
+    
 	    
 }
 	     
